@@ -2,6 +2,7 @@
 
 - Trabalhando em um projeto cientifico voltado para segurança dos usuários(Key For All).
 - Estudando Análise e Desenvolvimento de Sistemas - FIAP.
+- Parte do time da ShiftCode https://github.com/ShiftCode5.
   <div> 
   
   
@@ -24,6 +25,7 @@
   <img align="center" alt="17hb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="17hb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="17hb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="17hb-Python" height="30" width="40" src="https://avatars.githubusercontent.com/u/90482873?v=4">
  </div>
   
  ##

@@ -4,11 +4,11 @@
 - Estudando Análise e Desenvolvimento de Sistemas - FIAP.
 - Parte do time da ShiftCode <div>
   <a href="https://www.github.com/17hb">
-    <img height="180em" src="https://avatars.githubusercontent.com/u/90482873?v=4"/>
+    <a href = "https://github.com/ShiftCode5"><img height="180em" src="https://avatars.githubusercontent.com/u/90482873?v=4"/>
 
-  </div.
+  
   <div> 
-  >
+  
   <a href="http://www.linkedin.com/in/henrique-bitancourt-969819145" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:henrique.bitancourt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   

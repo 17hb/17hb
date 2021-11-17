@@ -2,7 +2,7 @@
 
 - Trabalhando em um projeto cientifico voltado para segurança dos usuários(Key For All).
 - Estudando Análise e Desenvolvimento de Sistemas - FIAP.
-- Parte do time da ShiftCode <div>
+- Parte do time da ShiftCode :point_down: <div>
   <a href="https://www.github.com/17hb">
     <a href = "https://github.com/ShiftCode5"><img height="180em" src="https://avatars.githubusercontent.com/u/90482873?v=4"/>
 
